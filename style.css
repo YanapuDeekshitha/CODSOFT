@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css?family:Poppins:wght@300;400;500;600;700&disply=swap');
+
+.cup{
+    margin:20px;
+}
+
+.bg-image{
+    background-image:url("https://picstatio.com/large/h7cd98/coffee-beans-cookies-wallpaper.jpg");
+    background-size: cover;
+    color:#ffffff;
+    height:100vh;
+}
+.topnav{
+    text-align: right;
+    color:#ffffff;
+    padding:20px;
+}
+.under-line{
+    text-decoration: none;
+    padding:20px;
+}
+.head-write{
+    text-align:center;
+    margin-top:300px;
+}
+.heading{
+    font-size:100px;
+    margin-left:500px;
+    font-family: Bree Serif;
+}
+.head-content{ 
+    margin-left:550px;
+    font-size:25px;
+}
+
+
+
+
+
+
+.middle-imgs{
+    height:20vh;
+}
+.imgs{
+    margin:10px;
+    background-color:rgb(238, 192, 129);
+    color:#ffffff;
+    height:35vh;
+    padding:10px;
+    border-radius: 10px;
+}
+.middle-btn{
+    color:#ffffff;
+    background-color:orange;
+    border: none;
+    border-radius: 5px;
+    padding:10px;
+}
+.img-width{
+    width:11vw;
+}
+.imgs-width{
+    width: 25px;
+}
+
+
+
+
+
+
+.last-heading{
+    font-family: "Bree Serif";
+    font-weight:bold;
+    color:brown;
+}
+.last-content{
+    font-family: "Roboto";
+    text-align: center;
+    margin-top:70px;
+}
+.last-img{
+    height:80vh;
+}
+.logo{
+    height:25vh;
+    margin:10px;
+    margin-top:40px;
+}
+.last-content{
+    text-align: center;
+}
+.last-para{
+    color:gray;
+    font-weight: bold;
+}
+.button{
+    border:none;
+    border-radius: 40px;
+    background-color: orange;
+    padding:15px;
+    font-weight:bold;
+}
+
+.bottom-bg{
+ background-image: url("https://getwallpapers.com/wallpaper/full/c/a/a/1112953-cafe-wallpaper-1920x1158-for-iphone.jpg");
+ background-size:cover;
+ color: #ffffff;
+height: 100vh;
+}
+.matter{
+    text-align:center;
+    color:rgb(68, 50, 27);
+    padding-top: 15px;
+}
+.icon{
+    color:black;
+}
+
+.link-img{
+    border: none;
+}
+
+.icons{
+    margin-top:20px;
+}
+.make-items{
+    margin-right:50px;
+}
+.make-item{
+    height:10vh;
+    margin:5px;
+}
+.big-item{
+    height:11vh;
+}
+.menu-links{
+    margin-right:50px;
+}
+.contact{
+    margin-left:50px;
+}
+
+
+.discount{
+    font-family: "Great Vibes",cursive;
+    text-align: center;
+}
+.first{
+    color:yellow;
+    font-size:50px;
+}
+.second{
+    font-size:100px;
+    color:yellow;
+}
+.third{
+    color:yellow;
+    font-size:200px;
+}
+.discounts{
+    font-size: 50px;
+    color: yellow;
+    
+}
